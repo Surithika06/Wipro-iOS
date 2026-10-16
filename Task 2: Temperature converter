@@ -1,0 +1,25 @@
+import Foundation
+
+let fahrenheitScale = 9.0 / 5.0
+let fahrenheitOffset = 32.0
+let kelvinOffset = 273.15
+
+var celsius = 25.0
+
+func printTemperatures(_ c: Double) {
+    let fahrenheit = c * fahrenheitScale + fahrenheitOffset
+    let kelvin = c + kelvinOffset
+
+    print("Celsius: \(String(format: "%.1f", c))°C")
+    print("Fahrenheit: \(String(format: "%.1f", fahrenheit))°F")
+    print("Kelvin: \(String(format: "%.1f", kelvin))K")
+    
+}
+
+printTemperatures(celsius)
+
+celsius = 37.0
+printTemperatures(celsius)
+
+celsius = -10.0
+printTemperatures(celsius)
