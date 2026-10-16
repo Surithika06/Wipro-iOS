@@ -6,5 +6,6 @@ Task 2: Temperature converter
 
 Task 3: Fix the compile errors
 <img width="206" height="65" alt="image" src="https://github.com/user-attachments/assets/804dc7c9-b64e-496c-8d28-5f50c54bde81" />
+
 Task 4:Restaurant bill calculator
 <img width="183" height="117" alt="image" src="https://github.com/user-attachments/assets/b19e34e5-5ed9-4554-99d7-1f2cd465e666" />
