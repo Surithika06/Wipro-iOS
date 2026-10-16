@@ -1,6 +1,6 @@
 import Foundation
 @ main 
-struct restaurantbillCalculatore{
+struct restaurantbillCalculator{
      static func main(){
 
 let itemPrice = 450.0
