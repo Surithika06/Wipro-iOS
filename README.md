@@ -13,3 +13,7 @@ Task 4:Restaurant bill calculator
 Task 5: Leap year and range checks
 <img width="231" height="122" alt="image" src="https://github.com/user-attachments/assets/8ac0b21e-7611-4676-afe0-8a326c453b46" />
 
+Task 6:
+<img width="89" height="155" alt="image" src="https://github.com/user-attachments/assets/5e71c950-902b-46c6-aba2-a3306d816eb4" />
+
+
