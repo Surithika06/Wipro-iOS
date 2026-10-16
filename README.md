@@ -9,3 +9,7 @@ Task 3: Fix the compile errors
 
 Task 4:Restaurant bill calculator
 <img width="183" height="117" alt="image" src="https://github.com/user-attachments/assets/b19e34e5-5ed9-4554-99d7-1f2cd465e666" />
+
+Task 5: Leap year and range checks
+<img width="231" height="122" alt="image" src="https://github.com/user-attachments/assets/8ac0b21e-7611-4676-afe0-8a326c453b46" />
+
