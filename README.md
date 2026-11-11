@@ -25,6 +25,10 @@ Task 8: Word Frequency Counter
 Task 9: Set algebra and de-duplication 
 <img width="353" height="119" alt="image" src="https://github.com/user-attachments/assets/cc7f383b-c5a1-481f-8588-164b1493bf19" />
 
+Task 10: Library item model 
+<img width="405" height="72" alt="image" src="https://github.com/user-attachments/assets/32fce6da-099f-4e8c-86a3-f8cd32f13638" />
+
+
 
 
 
