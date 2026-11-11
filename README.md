@@ -13,11 +13,15 @@ Task 4:Restaurant bill calculator
 Task 5: Leap year and range checks
 <img width="231" height="122" alt="image" src="https://github.com/user-attachments/assets/8ac0b21e-7611-4676-afe0-8a326c453b46" />
 
-Task 6:
+Task 6: Predict Task
 <img width="89" height="155" alt="image" src="https://github.com/user-attachments/assets/5e71c950-902b-46c6-aba2-a3306d816eb4" />
 
-Task 7:
+Task 7: Course Registration
 <img width="298" height="188" alt="image" src="https://github.com/user-attachments/assets/29cb456f-503a-4851-8841-ce722857d1a7" />
+
+Task 8: Word Frequency Counter
+<img width="333" height="239" alt="image" src="https://github.com/user-attachments/assets/a7a5eac0-a050-4bac-a1f1-4ab78d17a6a9" />
+
 
 
 
