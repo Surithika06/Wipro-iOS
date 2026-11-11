@@ -28,8 +28,11 @@ Task 9: Set algebra and de-duplication
 Task 10: Library item model 
 <img width="405" height="72" alt="image" src="https://github.com/user-attachments/assets/32fce6da-099f-4e8c-86a3-f8cd32f13638" />
 
-Task 11:
+Task 11: Shapes and areas 
 <img width="203" height="154" alt="image" src="https://github.com/user-attachments/assets/6998567e-8911-482d-b6be-c1f33b115a7a" />
+
+Task 12:  Challenge Task
+<img width="138" height="63" alt="image" src="https://github.com/user-attachments/assets/4b24ba7f-fe4b-481a-8fb3-0663999596f7" />
 
 
 
