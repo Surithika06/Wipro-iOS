@@ -16,4 +16,8 @@ Task 5: Leap year and range checks
 Task 6:
 <img width="89" height="155" alt="image" src="https://github.com/user-attachments/assets/5e71c950-902b-46c6-aba2-a3306d816eb4" />
 
+Task 7:
+<img width="298" height="188" alt="image" src="https://github.com/user-attachments/assets/29cb456f-503a-4851-8841-ce722857d1a7" />
+
+
 
